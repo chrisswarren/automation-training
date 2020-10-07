@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-12T16:10:26 BST" name="Default suite" finished-at="2020-08-12T16:11:32 BST" duration-ms="65836">
+    <groups>
+    </groups>
+    <test started-at="2020-08-12T16:10:26 BST" name="Default test" finished-at="2020-08-12T16:11:32 BST" duration-ms="65836">
+      <class name="tests.Expedia">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Expedia@7fc2413d]" started-at="2020-08-12T16:10:26 BST" name="setUp" finished-at="2020-08-12T16:10:37 BST" duration-ms="10955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="hotelReservation()[pri:0, instance:tests.Expedia@7fc2413d]" started-at="2020-08-12T16:10:37 BST" name="hotelReservation" finished-at="2020-08-12T16:11:32 BST" duration-ms="54779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelReservation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Expedia@7fc2413d]" started-at="2020-08-12T16:11:32 BST" name="tearDown" finished-at="2020-08-12T16:11:32 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Expedia -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

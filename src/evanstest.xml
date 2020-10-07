@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Evans Cycles Test Suite">
+
+  <test name="Smoke Test Forgotten password">
+    <classes>
+      <class name="smoketests.aTagsTest"/>      
+    </classes>    
+  </test> <!-- Test -->
+  
+  <test name="Smoke Test Login">
+    <classes>      
+      <class name="smoketests.loginPresentTestNG"/>
+    </classes>    
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
